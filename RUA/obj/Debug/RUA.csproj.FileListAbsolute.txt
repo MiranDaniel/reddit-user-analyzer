@@ -1,0 +1,14 @@
+C:\Users\miran\source\repos\RUA\RUA\bin\Debug\RUA.exe.config
+C:\Users\miran\source\repos\RUA\RUA\bin\Debug\RUA.exe
+C:\Users\miran\source\repos\RUA\RUA\bin\Debug\RUA.pdb
+C:\Users\miran\source\repos\RUA\RUA\obj\Debug\RUA.csprojAssemblyReference.cache
+C:\Users\miran\source\repos\RUA\RUA\obj\Debug\RUA.Form1.resources
+C:\Users\miran\source\repos\RUA\RUA\obj\Debug\RUA.Properties.Resources.resources
+C:\Users\miran\source\repos\RUA\RUA\obj\Debug\RUA.csproj.GenerateResource.cache
+C:\Users\miran\source\repos\RUA\RUA\obj\Debug\RUA.csproj.CoreCompileInputs.cache
+C:\Users\miran\source\repos\RUA\RUA\obj\Debug\RUA.exe
+C:\Users\miran\source\repos\RUA\RUA\obj\Debug\RUA.pdb
+C:\Users\miran\source\repos\RUA\RUA\obj\Debug\RUA.Form2.resources
+C:\Users\miran\source\repos\RUA\RUA\bin\Debug\Newtonsoft.Json.dll
+C:\Users\miran\source\repos\RUA\RUA\bin\Debug\Newtonsoft.Json.xml
+C:\Users\miran\source\repos\RUA\RUA\obj\Debug\RUA.csproj.CopyComplete
